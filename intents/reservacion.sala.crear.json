@@ -1,0 +1,81 @@
+{
+  "id": "cd5666fe-4c6a-49ee-a1c3-61f6da32a713",
+  "name": "reservacion.sala.crear",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "eb8808db-be27-4992-8b38-4076640833f1",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "personas",
+          "value": "$personas",
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "¿Para cuántas personas?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "ac7d6b15-37a9-4a6f-90dd-99d8cd730e71",
+          "required": true,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "¿Para qué fecha desea hacer la reservación?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "3994ae3d-175e-4d02-8476-8ff62dde4339",
+          "required": true,
+          "dataType": "@sys.time",
+          "name": "hora",
+          "value": "$hora",
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "¿Para qué hora necesita la sala?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": [
+            "Excelente, ya su sala fue reservada para $personas personas para la fecha $date a las $hora",
+            "Perfecto, su sala ha sido reservada para $personas para la fecha $date a las $hora",
+            "Su sala fue reservada para $personas invitados para la fecha $date a  las $hora, que tenga un buen día",
+            "Su sala fue reservada para  $personas para la fecha $date a las $hora, hasta luego."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Gracias por contactar con salasBot."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535985383,
+  "fallbackIntent": false,
+  "events": []
+}

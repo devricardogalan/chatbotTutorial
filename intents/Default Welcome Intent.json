@@ -1,0 +1,43 @@
+{
+  "id": "6f346805-079e-495c-81a5-a91bb67ad302",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [
+        {
+          "name": "DefaultWelcomeIntent-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": [
+            "¿Todo bien? Soy salasBot. ¿Quisiera reservar alguna sala para una reunión?",
+            "¿Qué tal? soy salasBot, ¿Quisiera reservar alguna sala?",
+            "¿Cómo estás? soy salasBot, ¿Quisiera reservar una sala?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535045863,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ]
+}

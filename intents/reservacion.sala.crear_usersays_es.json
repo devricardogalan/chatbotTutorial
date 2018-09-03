@@ -1,0 +1,295 @@
+[
+  {
+    "id": "d925bf1c-d8c6-4d26-bae9-422c14c1c38c",
+    "data": [
+      {
+        "text": "Quisiera hacer ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " reservación para",
+        "userDefined": false
+      },
+      {
+        "text": " 7",
+        "alias": "personas",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " el ",
+        "userDefined": false
+      },
+      {
+        "text": "06/11/2018",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535573135
+  },
+  {
+    "id": "9f56e032-b3f0-41cc-83da-925cec984fe5",
+    "data": [
+      {
+        "text": "Quisiera  hacer ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " reservación ",
+        "userDefined": false
+      },
+      {
+        "text": "para el día de mañana",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535057872
+  },
+  {
+    "id": "cd8622a4-aa12-4fc0-9c71-ab972c166232",
+    "data": [
+      {
+        "text": "Haz ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " reservacion para ",
+        "userDefined": false
+      },
+      {
+        "text": "8",
+        "alias": "personas",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " a las ",
+        "userDefined": false
+      },
+      {
+        "text": "17:00 horas",
+        "alias": "hora",
+        "meta": "@sys.time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535574043
+  },
+  {
+    "id": "7f2c6266-5276-4c80-b450-b8a5521c97fd",
+    "data": [
+      {
+        "text": "Deseo realizar ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " reservación para las ",
+        "userDefined": false
+      },
+      {
+        "text": "5:00 de la tarde",
+        "alias": "hora",
+        "meta": "@sys.time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535574043
+  },
+  {
+    "id": "feb0d7ad-8756-4096-b8ac-1d8036dd75ad",
+    "data": [
+      {
+        "text": "Quiero hacer ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " reservacion para las ",
+        "userDefined": false
+      },
+      {
+        "text": "20:00 horas",
+        "alias": "hora",
+        "meta": "@sys.time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535574043
+  },
+  {
+    "id": "0dd038e0-a98f-4b8d-9689-efe3c777fc06",
+    "data": [
+      {
+        "text": "Quisiera hacer ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " reservacion para las ",
+        "userDefined": false
+      },
+      {
+        "text": "8 de la mañana",
+        "alias": "hora",
+        "meta": "@sys.time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535574043
+  },
+  {
+    "id": "1eddb7c7-7cc7-423b-ba8a-c7568855986a",
+    "data": [
+      {
+        "text": "Quiero hacer ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " reservación para ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "personas",
+        "meta": "@sys.number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535047253
+  },
+  {
+    "id": "0aaeeba3-845d-4854-8f39-6240a2a7f782",
+    "data": [
+      {
+        "text": "Quisiera hacer ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " reservacion para ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "personas",
+        "meta": "@sys.number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535047253
+  },
+  {
+    "id": "9881ab4a-8aa0-4043-b362-cb36eb45b104",
+    "data": [
+      {
+        "text": "Deseo reservar ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sala ",
+        "userDefined": false
+      },
+      {
+        "text": "para una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " reunion para ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "personas",
+        "meta": "@sys.number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535047253
+  },
+  {
+    "id": "14246a2c-a826-45fd-918e-17791b9d4a51",
+    "data": [
+      {
+        "text": "Quiero reservar ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sala",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535047253
+  }
+]
